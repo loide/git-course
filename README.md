@@ -1,2 +1,2 @@
 # git-course
-Training slides used on INdT
+Git Training slides used on INdT
